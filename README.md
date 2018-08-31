@@ -1,2 +1,2 @@
 # Tic_Tac_Toe
-Tic_Tac_Toe Programmed in Python
+Tic_Tac_Toe Programmed in Python built without the use of outside packages. The program asks for dimension so it can be greater than the traditional 3 by 3. It has been made more complex as the course only asked for logic to process win conditions. In order to win one inputs Xs or Os and the program checks for the win condition. If the win condition is met it will produce a winner message. The purpose of the program was to test the programmer's skill in regards to python for Jose Portilla's Intro to Python course. The generation of the empty list within a list is done using list comprehension and many of the functions rely on the input for dimensions given.
